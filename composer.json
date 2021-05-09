@@ -8,7 +8,8 @@
     },
     "require": {
         "eventsauce/eventsauce": "^1.0",
-        "illuminate/database": "^8.35"
+        "illuminate/database": "^8.35",
+        "ramsey/uuid": "^4.1"
     },
     "license": "MIT",
     "authors": [
